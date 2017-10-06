@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For VolumeControl
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+callbackFunction	KEYWORD1	callbackFunction
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+update				KEYWORD2
+hardwareRead		KEYWORD2
+softwareSet			KEYWORD2
+current				KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+VOLUME_CONTROL_SOFTWARE_MAX	LITERAL1
+VOLUME_CONTROL_HARDWARE_MAX	LITERAL1
+VOLUME_CONTROL_COMMON_MAX	LITERAL1
