@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-callbackFunction	KEYWORD1	callbackFunction
+callbackFunction	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
